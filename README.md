@@ -1,3 +1,4 @@
+
 # Comprehensive Machine Learning & Deep Learning Architecture
 
 This repository serves as a production-grade structural framework for implementing, benchmarking, and deploying advanced Machine Learning paradigms, Statistical Modeling, and Deep Learning architectures. Built optimized for high-performance development workflows on Kali Linux.
@@ -27,3 +28,23 @@ Leveraging multi-layered neural network configurations to approximate complex no
 *   **OS Environment**: Kali Linux / Debian-based Core
 *   **Language**: Python 3.10+
 *   **Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
+# 🧠 Machine Learning & Deep Learning Repository
+
+Welcome to this repository! It serves as a comprehensive collection of projects, exercises, and research implementations spanning **Data Analysis**, **Machine Learning**, and **Deep Learning**.
+
+---
+
+## 📁 Repository Structure
+
+The projects in this repository are organized into the following core directories:
+
+```text
+MACHINE-LEARNING-/
+│
+├── 📊 01-data-analysis/              # Exploratory Data Analysis (EDA), Data Cleaning & Visualization
+├── 🎯 02-supervised-learning/         # Regression & Classification Models (Linear Models, SVM, Trees)
+├── 🔍 03-unsupervised-learning/       # Clustering (K-Means, Hierarchical) & Dimensionality Reduction (PCA)
+├── 🕸️ 04-artificial-neural-networks/  # Perceptrons & Multi-Layer Perceptrons (MLP)
+└── 🚀 05-deep-learning/              # CNNs, RNNs, PyTorch/TensorFlow Models & Transfer Learning
+git clone [https://github.com/hbaharia200-stack/MACHINE-LEARNING-.git](https://github.com/YOUR_USERNAME/MACHINE-LEARNING-.git)
+cd MACHINE-LEARNING-
