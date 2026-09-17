@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Large Datasets & Heavy Models
+*.csv
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Code Editors & System files
+.vscode/
+.idea/
+.DS_Store
